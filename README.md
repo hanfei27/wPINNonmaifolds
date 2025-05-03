@@ -1,2 +1,1 @@
-# wPINNonmaifolds
-wPINNonmaifolds
+AdversarialPinns
