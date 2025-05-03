@@ -1,0 +1,1 @@
+wPINN on manifolds
