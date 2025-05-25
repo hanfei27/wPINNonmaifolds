@@ -18,7 +18,7 @@ class EquationClass(EquationBaseClass):
 
         self.sampling_method = "random"
         self.output_dimension = 1
-        self.equation_type = "sine"
+        self.equation_type = "standing"
         
         if self.equation_type == "sine":
             self.domain_boundaries = torch.tensor([
